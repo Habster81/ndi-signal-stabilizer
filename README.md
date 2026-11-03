@@ -1,7 +1,7 @@
 # NDI Signal Stabilizer
 ## Screenshot
 
-![NDI Signal Stabilizer – Main Window](NDI Stabilizer_interface.png)
+![NDI Signal Stabilizer – Main Window](NDIStabilizer_interface.png)
 
 **Stable resolution. Reliable NDI signals.**
 
